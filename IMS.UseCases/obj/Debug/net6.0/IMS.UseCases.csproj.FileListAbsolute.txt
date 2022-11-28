@@ -1,0 +1,15 @@
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/bin/Debug/net6.0/IMS.UseCases.deps.json
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/bin/Debug/net6.0/IMS.UseCases.dll
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/bin/Debug/net6.0/IMS.UseCases.pdb
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/bin/Debug/net6.0/IMS.CoreBusiness.dll
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/bin/Debug/net6.0/IMS.CoreBusiness.pdb
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/obj/Debug/net6.0/IMS.UseCases.csproj.AssemblyReference.cache
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/obj/Debug/net6.0/IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/obj/Debug/net6.0/IMS.UseCases.AssemblyInfoInputs.cache
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/obj/Debug/net6.0/IMS.UseCases.AssemblyInfo.cs
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/obj/Debug/net6.0/IMS.UseCases.csproj.CoreCompileInputs.cache
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/obj/Debug/net6.0/IMS.UseCases.csproj.CopyComplete
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/obj/Debug/net6.0/IMS.UseCases.dll
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/obj/Debug/net6.0/refint/IMS.UseCases.dll
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/obj/Debug/net6.0/IMS.UseCases.pdb
+/Users/mukul/Downloads/InventoryManagementSystem-_frankliucs.com_-/IMS.UseCases/obj/Debug/net6.0/ref/IMS.UseCases.dll
